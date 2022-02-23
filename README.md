@@ -1,2 +1,2 @@
-# semihtulgar-bootcamp-kat-l-m-formu
+# KOFANA Bootcamp 1.Hafta Ödevi
 1.Hafta Ödevi

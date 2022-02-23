@@ -1,0 +1,9 @@
+.logo{
+    width: 100px;
+    height: 100px;
+    border: 2px solid #474EFF;
+}
+
+.card{
+    box-shadow: 2px 2px 2px 2px #474EFF;
+}
